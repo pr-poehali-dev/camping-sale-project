@@ -115,7 +115,7 @@ export default function Index() {
           <nav className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Trees" className="h-8 w-8 text-nature-700" />
-              <h1 className="text-2xl font-bold text-nature-800">OUTDOOR STORE</h1>
+              <h1 className="text-2xl font-bold text-nature-800">TAIGARD</h1>
             </div>
             <div className="hidden md:flex space-x-6">
               <a href="#catalog" className="text-nature-700 hover:text-nature-900 font-medium">Каталог</a>
@@ -407,7 +407,7 @@ export default function Index() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Trees" className="h-6 w-6" />
-                <span className="text-xl font-bold">OUTDOOR STORE</span>
+                <span className="text-xl font-bold">TAIGARD</span>
               </div>
               <p className="text-nature-200">
                 Лучшее оборудование для активного отдыха на природе
@@ -450,7 +450,7 @@ export default function Index() {
             </div>
           </div>
           <div className="border-t border-nature-700 mt-8 pt-8 text-center text-nature-200">
-            <p>&copy; 2024 OUTDOOR STORE. Все права защищены.</p>
+            <p>&copy; 2024 TAIGARD. Все права защищены.</p>
           </div>
         </div>
       </footer>
